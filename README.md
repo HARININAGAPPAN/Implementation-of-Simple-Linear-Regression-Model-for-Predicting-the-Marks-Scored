@@ -69,19 +69,25 @@ print("RMSE= ",rmse)
 ## Output:
 # Dataset
 <img width="276" height="636" alt="Screenshot 2025-08-20 150049" src="https://github.com/user-attachments/assets/d746c2d4-8013-4d98-9279-813330fa564c" />
+
 ## Head Values
 <img width="241" height="181" alt="image" src="https://github.com/user-attachments/assets/52626875-1625-4b63-87c7-b151322ba640" />
+
 ## Tail Values
 <img width="243" height="162" alt="image" src="https://github.com/user-attachments/assets/f64129be-8ada-4df3-80e6-422f92676339" />
+
 ## X and Y values
 <img width="809" height="653" alt="image" src="https://github.com/user-attachments/assets/8e9b8870-1d5b-43fb-a8aa-29303cecf2ee" />
+
 ## Predication values of X and Y
 <img width="832" height="106" alt="image" src="https://github.com/user-attachments/assets/ee69ec19-c2e2-4108-b654-55e0b3e47c4e" />
 
 ## MSE,MAE and RMSE
 <img width="322" height="100" alt="image" src="https://github.com/user-attachments/assets/d6593a14-9f90-4398-a92c-8ec4dce971ee" />
+
 ## Training Set
 <img width="636" height="462" alt="image" src="https://github.com/user-attachments/assets/2ed9adf9-e81c-492b-92ce-f7f18182fa34" />
+
 ## Testing Set
 <img width="688" height="440" alt="image" src="https://github.com/user-attachments/assets/64c37f64-3f1e-44fd-b6d3-6d8febb5d71d" />
 
